@@ -7,17 +7,17 @@ $brandName = "Dear at SEA";
 $telegram_use = true;
 
 
-$telegram_bot_token = "8618286722:AAFw8lmI9VURIgvdsr8GEh6Ea8EjmYAJano";
+$telegram_bot_token = '8618286722:AAFw8lmI9VURIgvdsr8GEh6Ea8EjmYAJano';
 
 // Bot username without @
 $telegram_bot_username = "HirayaApplicantVote_bot";
 
 // Admin/user chat ID fallback
-$telegram_chat_id = "-1003976308647";
+$telegram_chat_id = '-1004448534966';
 
 // Where submissions will be forwarded.
 // Option 1: public channel username
-//$telegram_forward_chat_id = "@YOUR_CHANNEL_USERNAME";
+//$telegram_forward_chat_id = '-1004448534966';
 
 // Option 2: private channel numeric ID, example:
  $telegram_forward_chat_id = "-1003976308647";
